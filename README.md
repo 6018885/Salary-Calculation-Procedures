@@ -1,6 +1,8 @@
 # Salary-Calculation-Procedures
 This repository contains five stored procedures for calculating employee salaries:  CalculateAbsenceDays: To calculate the number of days of absence. 
-CalculateOvertime: To calculate overtime. CalculateSocialSecurity: To calculate social security contributions. CalculateTax: To calculate taxes. CalculateTotalSalary: To sum all values together.
+CalculateOvertime: To calculate overtime.
+CalculateSocialSecurity: To calculate social security contributions. CalculateTax: To calculate taxes. CalculateTotalSalary: To sum all values together.
+
 ##CalculateLeaveDiscount
 This stored procedure calculates the number of days of absence for an employee based on the provided parameters.
 You can call this procedure using the following SQL query:
